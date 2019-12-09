@@ -1,1 +1,3 @@
-# NotSoAccuratePedometer
+### NotSoAccuratePedometer
+
+#Requirement
