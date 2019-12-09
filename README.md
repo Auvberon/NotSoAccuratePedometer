@@ -1,12 +1,12 @@
-### NotSoAccuratePedometer
+# NotSoAccuratePedometer
 
-# Requirement
+### Requirement
 1. Matlab
 2. Decent laptop
 3. Android based smartphone
 4. HyperIMU (or other sensor app)
 
-# MatLab Function
+### MatLab Function
 - sqrt()
 - sum()
 - fft()
@@ -19,7 +19,7 @@
 - findpeaks()
 - fdatool
 
-# The Data
+### The Data
 >Jason
 >10 steps, 20 steps, 30 steps
 
