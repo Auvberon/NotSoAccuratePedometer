@@ -20,6 +20,6 @@
 - fdatool
 
 # The Data
-- Jason     -> 10 steps, 20 steps, 30 steps
+- Jason       -> 10 steps, 20 steps, 30 steps
 - Aliefian  -> 10 steps, 20 steps, 30 steps
-- Rizky     -> 10 steps, 20 steps, 30 steps, 5 steps walking & 5 steps running
+- Rizky      -> 10 steps, 20 steps, 30 steps, 5 steps walking & 5 steps running
