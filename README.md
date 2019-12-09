@@ -5,6 +5,7 @@
 2. Decent laptop
 3. Android based smartphone
 4. HyperIMU (or other sensor app)
+5. Working Legs
 
 ### MatLab Function
 - sqrt()
