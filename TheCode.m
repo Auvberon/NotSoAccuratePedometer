@@ -238,8 +238,8 @@ title('Jason 30 steps')
 
 figure('Name','Varisasi','NumberTitle','off')
 subplot(3,1,1);plot(hasilVarRizky);findpeaks(hasilVarRizky,1.5);
-title('Rizky 5 steps walking5 steps running')
+title('Rizky 5 steps walking 5 steps running')
 subplot(3,1,2);plot(hasilVarAlief);findpeaks(hasilVarAlief,1.5);
-title('N/A')
+title('Alief 5 steps walking 5 steps crouch walk')
 subplot(3,1,3);plot(hasilVarJason);findpeaks(hasilVarJason,1.5);
 title('Jason 10 steps running')
